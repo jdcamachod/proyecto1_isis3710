@@ -1,0 +1,3 @@
+El codigo es legible y esta bien estructurado. Estan nombrados adecuadamente las diferentes partes del html lo que lo hace facil de revisar. El codigo en css sigue los mismos nombres que el html.
+La pagina tiene un diseño agradable utilizando pocos colores priorizando una escala de grises. Pero en cuanto al tamaño de algunos componentes lo hace algo poco estetico en pantallas muy grandes. Tiene todos los componentes que se debian.
+En validator se resaltaban 2 tipos de errores, uno es que la falta de alt en 2 de las imagenes usadas en la pagina. El otro era un error en el atributo crossorigin del script porque habias puesto un espacio en blanco despues del anonymous.
